@@ -1,0 +1,5 @@
+1.0.2
+
+Fixed a bug in the creator search feature.
+Added confirmation screen when editing a creator.
+Added a modal for versioning.
