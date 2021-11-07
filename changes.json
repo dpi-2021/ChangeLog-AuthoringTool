@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "changes": ["Fixed a bug in the creator search feature.",
               "Added confirmation screen when editing a creator.",
-              "Added a modal for versioning"
+              "Added a modal for versioning."
               ]
   }
 ]
