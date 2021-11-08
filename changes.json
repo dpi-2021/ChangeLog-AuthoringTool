@@ -1,12 +1,26 @@
 [
   {
     "version": "1.0.2",
+    "date": "2021-11-8",
     "new_features": [
-      "Added confirmation screen when editing a creator.",
-      "Added option for coaching point icons that don’t point to anything",
-      "Added option to apply chosen color to all coaching points",
-      "Added a modal for versioning."
+      {
+        "description": "Added confirmation screen when editing a creator"
+      },
+      {
+        "description": "Added option for coaching point icons that don’t point to anything"
+      },
+      {
+        "description": "Added option to apply chosen color to all coaching points"
+      },
+      {
+        "description": "Added a modal for versioning",
+        "sub": ["Informational only; no automatic downloading"]
+      }
     ],
-    "bug_fixes": ["Fixed a bug in the creator search feature."]
+    "bug_fixes": [
+      {
+        "description": "Fixed a bug in the creator search feature"
+      }
+    ]
   }
 ]
