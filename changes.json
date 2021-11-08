@@ -14,7 +14,7 @@
       },
       {
         "description": "Added a modal for versioning",
-        "sub": ["Informational only; no automatic downloading", "Test"]
+        "sub": ["Informational only; no automatic downloading"]
       }
     ],
     "bug_fixes": [
