@@ -1,9 +1,12 @@
 [
   {
-  "version": "1.0.2",
-  "changes": ["Fixed a bug in the creator search feature.",
-              "Added confirmation screen when editing a creator.",
-              "Added a modal for versioning."
-              ]
+    "version": "1.0.2",
+    "new_features": [
+      "Added confirmation screen when editing a creator.",
+      "Added option for coaching point icons that don’t point to anything",
+      "Added option to apply chosen color to all coaching points",
+      "Added a modal for versioning."
+    ],
+    "bug_fixes": ["Fixed a bug in the creator search feature."]
   }
 ]
