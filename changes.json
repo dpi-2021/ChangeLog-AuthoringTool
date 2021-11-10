@@ -4,8 +4,11 @@
     "date": "2021-11-10",
     "new_features": [
       {
-        "description": "Added shortcut keys for Time Assign mode: left and right arrow keys for skipping back and forth by 0.033s (one frame at 30fps)",
-        "sub": "Press Left to go back a frame, and right to go forward"
+        "description": "Added shortcut keys for Time Assign mode",
+        "sub": [
+          "Press left arrow to go back a frame, and right arrow to go forward",
+          "The increment is not dependent on the source framerate, but fixed at 0.033s (one frame at 30fps)"
+        ]
       }
     ],
     "bug_fixes": [
