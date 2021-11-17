@@ -1,19 +1,25 @@
 [
   {
-    "version": "1.0.3",
-    "date": "2021-11-10",
+    "version": "1.0.4",
+    "date": "2021-11-17",
     "new_features": [
       {
-        "description": "Added shortcut keys for Time Assign mode",
+        "description": "Added menu for authoring repeats",
         "sub": [
-          "Press left arrow to go back a frame, and right arrow to go forward",
-          "The increment is not dependent on the source framerate, but fixed at 0.033s (one frame at 30fps)"
+          "Not fully implemented; please avoid using it",
+          "Accessible when the Time Assign tool is selected"
         ]
+      },
+      {
+        "description": "Added ability to re-order pages"
+      },
+      {
+        "description": "Decreased load times for images and enabled caching of images"
       }
     ],
     "bug_fixes": [
       {
-        "description": "Fixed issue that prevented creators from saving"
+        "description": "Fixed a bug in the Time Assign tool that caused the text overlay to interfere with clicks"
       }
     ]
   }
