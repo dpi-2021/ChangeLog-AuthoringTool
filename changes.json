@@ -1,25 +1,27 @@
 [
   {
-    "version": "1.0.4",
-    "date": "2021-11-17",
+    "version": "1.0.4.5",
+    "date": "2021-12-3",
     "new_features": [
       {
-        "description": "Added menu for authoring repeats",
+        "description": "Login System Implemented",
         "sub": [
-          "Not fully implemented; please avoid using it",
-          "Accessible when the Time Assign tool is selected"
+          "Made to secure the endpoints of editing content"
         ]
       },
       {
-        "description": "Added ability to re-order pages"
-      },
-      {
-        "description": "Decreased load times for images and enabled caching of images"
+        "description": "Coaching point menu",
+        "sub": [
+            "Audio and Subtitles can now be saved",
+            "Titles save correctly",
+            "Layout change for menu",
+            "Change scale of coaching point"
+        ]
       }
     ],
     "bug_fixes": [
       {
-        "description": "Fixed a bug in the Time Assign tool that caused the text overlay to interfere with clicks"
+        "description": "Fixed a bug that made the application crash when DPI button was clicked."
       }
     ]
   }
