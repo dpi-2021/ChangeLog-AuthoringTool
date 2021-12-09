@@ -8,6 +8,9 @@
         "sub": ["Made to secure the endpoints of editing content"]
       },
       {
+        "description": "Added atist intro video link field"
+      },
+      {
         "description": "Coaching point menu changes",
         "sub": [
           "Layout change (now with tabs!)",
