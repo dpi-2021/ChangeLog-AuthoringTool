@@ -4,10 +4,22 @@
     "date": "2021-12-9",
     "new_features": [
       {
+        "description": "Login System Implemented",
+        "sub": ["Made to secure the endpoints of editing content"]
+      },
+      {
+        "description": "Coaching point menu changes",
+        "sub": [
+          "Layout change (now with tabs!)",
+          "Titles save correctly",
+          "Icons now a little smaller (existing points will not change size)"
+        ]
+      },
+      {
         "description": "Uploading assets for coaching points now possible",
         "sub": [
           "There’s a bug that causes an asset to remain deleted, even after the cancel button is pressed",
-          "If you had saved the page after uploading (and before deleting), reloading the page will fix it"
+          "If the page was saved after uploading the asset (and before deleting it), reloading the page will fix it"
         ]
       }
     ]
