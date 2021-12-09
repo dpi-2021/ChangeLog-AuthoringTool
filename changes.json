@@ -1,27 +1,14 @@
 [
   {
-    "version": "1.0.4.5",
-    "date": "2021-12-3",
+    "version": "1.1.0",
+    "date": "2021-12-9",
     "new_features": [
       {
-        "description": "Login System Implemented",
+        "description": "Uploading assets for coaching points now possible",
         "sub": [
-          "Made to secure the endpoints of editing content"
+          "There’s a bug that causes an asset to remain deleted, even after the cancel button is pressed",
+          "If you had saved the page after uploading (and before deleting), reloading the page will fix it"
         ]
-      },
-      {
-        "description": "Coaching point menu",
-        "sub": [
-            "Audio and Subtitles can now be saved",
-            "Titles save correctly",
-            "Layout change for menu",
-            "Change scale of coaching point"
-        ]
-      }
-    ],
-    "bug_fixes": [
-      {
-        "description": "Fixed a bug that made the application crash when DPI button was clicked."
       }
     ]
   }
