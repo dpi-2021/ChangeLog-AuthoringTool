@@ -25,6 +25,11 @@
           "If the page was saved after uploading the asset (and before deleting it), reloading the page will fix it"
         ]
       }
-    ]
+    ],
+    "bug_fixes": [
+      {
+        "description": "Removed infamous crash button"
+      }
+      ]
   }
 ]
